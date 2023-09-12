@@ -1,6 +1,6 @@
 # This repository is an implementation of a human Tracker with DeepSort and yolov8-pose
 
-Few days ago, a colleague of mine [talked about this ] (
+Few days ago, a colleague of mine [talked about this ](
 https://www.linkedin.com/posts/activity-7105248139242016769-uNk4?utm_source=share&utm_medium=member_android) and I decided to replicate their software. I will improve upon this repository and will add diffeerent models using **Pytorch**.
 
 
