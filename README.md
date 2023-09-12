@@ -13,5 +13,5 @@ git clone https://github.com/babaee74/deep_sort.git
 ```
 pip install -r requirements.txt
 ```
-3- download pretrain DeepSORT feature model from [this link] (https://drive.google.com/drive/folders/18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp)
+3- download pretrain DeepSORT feature model from [this link](https://drive.google.com/drive/folders/18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp)
 4- modify detect.py and change **ENC_MODEL_PATH** and **video_path** parameters based on your needs
